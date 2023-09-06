@@ -1,4 +1,4 @@
-package journey;
+package basicsyntax.journey;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package electricitybill;
+package basicsyntax.electricitybill;
 
 import java.util.Scanner;
 

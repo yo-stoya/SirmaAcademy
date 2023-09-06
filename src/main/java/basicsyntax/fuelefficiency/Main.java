@@ -1,4 +1,4 @@
-package fuelefficiency;
+package basicsyntax.fuelefficiency;
 
 import java.util.Scanner;
 

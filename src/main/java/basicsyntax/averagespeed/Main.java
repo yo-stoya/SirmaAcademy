@@ -1,4 +1,4 @@
-package averagespeed;
+package basicsyntax.averagespeed;
 
 import java.util.Scanner;
 

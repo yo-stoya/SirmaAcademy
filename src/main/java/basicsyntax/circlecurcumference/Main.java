@@ -1,4 +1,4 @@
-package circlecurcumference;
+package basicsyntax.circlecurcumference;
 
 import java.util.Scanner;
 

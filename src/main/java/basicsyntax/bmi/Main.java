@@ -1,4 +1,4 @@
-package bmi;
+package basicsyntax.bmi;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package waterconsumption;
+package basicsyntax.waterconsumption;
 
 import java.util.Scanner;
 
