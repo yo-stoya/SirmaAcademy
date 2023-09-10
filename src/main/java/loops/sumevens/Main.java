@@ -12,7 +12,7 @@ public class Main {
         int sum = 0;
         int end = 0;
 
-        for (int j = 0; end <= n; j += 2) {
+       for (int j = 2; end < n; j += 2) {
             sum += j;
             end++;
         }
